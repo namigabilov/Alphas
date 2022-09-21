@@ -21,7 +21,7 @@ namespace EKOB_EBOB_LIMIT_TOREME_
             {
                Console.WriteLine("Ededler qarsiliqli sadedir ");
             }
-            Console.WriteLine($"EKOB = {EBOB(num1, num2)}");
+            Console.WriteLine($"EBOB = {EBOB(num1, num2)}");
             #endregion
             do
             {
