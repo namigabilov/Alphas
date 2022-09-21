@@ -103,6 +103,7 @@ namespace EKOB_EBOB_LIMIT_TOREME_
                 result =( Math.Pow((num + m) , 2) - num*num) / m;
             }
             return result;
+//What is my branche
             
         }
          
