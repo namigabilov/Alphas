@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\bin\Debug\netcoreapp3.1\SadeEdedler.exe
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\bin\Debug\netcoreapp3.1\SadeEdedler.deps.json
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\bin\Debug\netcoreapp3.1\SadeEdedler.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\bin\Debug\netcoreapp3.1\SadeEdedler.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\bin\Debug\netcoreapp3.1\SadeEdedler.dll
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\bin\Debug\netcoreapp3.1\SadeEdedler.pdb
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\obj\Debug\netcoreapp3.1\SadeEdedler.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\obj\Debug\netcoreapp3.1\SadeEdedler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\obj\Debug\netcoreapp3.1\SadeEdedler.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\obj\Debug\netcoreapp3.1\SadeEdedler.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\obj\Debug\netcoreapp3.1\SadeEdedler.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\obj\Debug\netcoreapp3.1\SadeEdedler.dll
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\obj\Debug\netcoreapp3.1\SadeEdedler.pdb
+C:\Users\ASUS\Desktop\C#\SadeEdedler\SadeEdedler\obj\Debug\netcoreapp3.1\SadeEdedler.genruntimeconfig.cache
