@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace SadeEdedler
 {
@@ -30,7 +30,11 @@ namespace SadeEdedler
                     {
                         if (arry[j] % i == 0 )
                         {
-                            arry[j] = 0;
+                            if (arry[j]!=i)
+                            {
+                                arry[j] = 0;
+                            }
+                           
                         }
                     }
                     break;
