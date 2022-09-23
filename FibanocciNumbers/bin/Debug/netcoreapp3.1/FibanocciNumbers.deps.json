@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FibanocciNumbers/1.0.0": {
+        "runtime": {
+          "FibanocciNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FibanocciNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

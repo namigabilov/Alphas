@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\bin\Debug\netcoreapp3.1\FibanocciNumbers.exe
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\bin\Debug\netcoreapp3.1\FibanocciNumbers.deps.json
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\bin\Debug\netcoreapp3.1\FibanocciNumbers.runtimeconfig.json
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\bin\Debug\netcoreapp3.1\FibanocciNumbers.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\bin\Debug\netcoreapp3.1\FibanocciNumbers.dll
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\bin\Debug\netcoreapp3.1\FibanocciNumbers.pdb
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\obj\Debug\netcoreapp3.1\FibanocciNumbers.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\obj\Debug\netcoreapp3.1\FibanocciNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\obj\Debug\netcoreapp3.1\FibanocciNumbers.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\obj\Debug\netcoreapp3.1\FibanocciNumbers.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\obj\Debug\netcoreapp3.1\FibanocciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\obj\Debug\netcoreapp3.1\FibanocciNumbers.dll
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\obj\Debug\netcoreapp3.1\FibanocciNumbers.pdb
+C:\Users\ASUS\source\repos\FibanocciNumbers\FibanocciNumbers\obj\Debug\netcoreapp3.1\FibanocciNumbers.genruntimeconfig.cache
