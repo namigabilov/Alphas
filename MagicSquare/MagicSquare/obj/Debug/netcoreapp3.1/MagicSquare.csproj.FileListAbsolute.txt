@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\bin\Debug\netcoreapp3.1\MagicSquare.exe
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\bin\Debug\netcoreapp3.1\MagicSquare.deps.json
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\bin\Debug\netcoreapp3.1\MagicSquare.runtimeconfig.json
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\bin\Debug\netcoreapp3.1\MagicSquare.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\bin\Debug\netcoreapp3.1\MagicSquare.dll
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\bin\Debug\netcoreapp3.1\MagicSquare.pdb
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.dll
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.pdb
+C:\Users\ASUS\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.genruntimeconfig.cache
